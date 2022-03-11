@@ -51,5 +51,5 @@ because your data may contains a lot of noise and unwanted character
 
 
 observation:
-it can detect and filter out spam and phishing emails with about 99.9 percent accuracy. 
+it can detect and filter out spam and phishing emails with about 81 percent  percent accuracy. 
 The implication of this is that one out of a thousand messages succeed in evading their email spam filter.
