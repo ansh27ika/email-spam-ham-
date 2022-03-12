@@ -38,6 +38,10 @@ from sklearn.metrics import accuracy_score
 >> training of model 
 used logistic regression
 
+>>What is NLTK?
+NLTK is a toolkit build for working with NLP in Python. It provides us various text processing libraries with a lot of test datasets. 
+A variety of tasks can be performed using NLTK such as tokenizing, parse tree visualization, etc
+
 
 >>Train Test Split
 It is important to split your data set to training set and test set, 
@@ -53,3 +57,5 @@ because your data may contains a lot of noise and unwanted character
 observation:
 it can detect and filter out spam and phishing emails with about 81 percent  percent accuracy. 
 The implication of this is that one out of a thousand messages succeed in evading their email spam filter.
+on compairing regression model FOR ACCURACY SCORE : logistic_regression>random_forest_regression>linear_regression
+
