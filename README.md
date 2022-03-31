@@ -60,8 +60,8 @@ before deploying it in a production environment.
 
 
 ## DEPLOYMENT 
-### Post Url
-http://127.0.0.1:8080/predict
+### Url
+https://emailspamanshika07.herokuapp.com/
 ### Body Response
 {"Message":"Nah I don't think he goes to usf, he lives around here though"}
 ### Prediction
